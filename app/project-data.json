@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Portal",
+      "owner": "Mona Patel",
+      "status": "In progress",
+      "recentActivity": "Navigation review completed yesterday",
+      "priority": "High"
+    },
+    {
+      "name": "Release Readiness",
+      "owner": "Jordan Lee",
+      "status": "On track",
+      "recentActivity": "QA checklist updated this morning",
+      "priority": "Medium"
+    },
+    {
+      "name": "Design System Refresh",
+      "owner": "Avery Chen",
+      "status": "Needs attention",
+      "recentActivity": "Accessibility audit has two open findings",
+      "priority": "High"
+    },
+    {
+      "name": "Data Import Service",
+      "owner": "Sam Rivera",
+      "status": "Planning",
+      "recentActivity": "Technical discovery notes shared on Monday",
+      "priority": "Low"
+    }
+  ]
+}
